@@ -1,0 +1,35 @@
+@font-face {
+    src: url("../fonts/Avenir-Black.ttf") format("truetype");
+    font-family: "Avenir";
+    font-weight: 800;
+}
+
+@font-face {
+    src: url("../fonts/Lato-Medium.ttf") format("truetype");
+    font-family: "Lato";
+    font-weight: 500;
+}
+
+@font-face {
+    src: url("../fonts/Lato-Regular.ttf") format("truetype");
+    font-family: "Lato";
+    font-weight: 400;
+}
+
+@font-face {
+    src: url("../fonts/Lato-Semibold.ttf") format("truetype");
+    font-family: "Lato";
+    font-weight: 600;
+}
+
+@font-face {
+    src: url("../fonts/georgia.ttf") format("truetype");
+    font-family: 'Georgia';
+    font-weight: 400;
+}
+
+@font-face {
+    src: url("../fonts/ofont.ru_Georgia.ttf") format("truetype");
+    font-family: 'Georgia';
+    font-weight: 700;
+}
