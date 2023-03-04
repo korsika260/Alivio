@@ -75,7 +75,7 @@ body{
 }
 
 .header__link {
-    font-family: 'Lato';
+    font-family: 'Lato', serif;
     font-weight: 500;
     font-size: 20px;
     line-height: 24px;
@@ -94,7 +94,7 @@ body{
 }
 
 .header-account__link {
-    font-family: 'Lato';
+    font-family: 'Lato', serif;
     font-weight: 400;
     font-size: 20px;
     line-height: 24px;
@@ -108,7 +108,7 @@ body{
 }
 
 .header-account__start {
-    font-family: 'Lato';
+    font-family: 'Lato', serif;
     font-weight: 400;
     font-size: 20px;
     line-height: 25px;
@@ -129,16 +129,15 @@ body{
 }
 
 .main-body__text {
-    margin: 0;
     padding: 0;
-    margin-top: 175px;
+    margin: 175px 0 0;
     max-width: 458px;
     position: absolute;
     z-index: 2;
 }
 
 .main-body__title {
-    font-family: 'Georgia';
+    font-family: 'Georgia', serif;
     font-weight: 700;
     font-size: 65px;
     line-height: 74px;
@@ -148,7 +147,7 @@ body{
 .main-body__subtitle {
     margin-top: 30px;
     margin-bottom: 66px;
-    font-family: 'Lato';
+    font-family: 'Lato', serif;
     font-weight: 400;
     font-size: 20px;
     line-height: 31px;
@@ -156,7 +155,7 @@ body{
 }
 
 .main-body__link {
-    font-family: 'Lato';
+    font-family: 'Lato', serif;
     font-weight: 400;
     font-size: 20px;
     line-height: 25px;
@@ -211,7 +210,7 @@ body{
 }
 
 .description-info__caption {
-    font-family: 'Lato';
+    font-family: 'Lato', serif;
     font-weight: 600;
     font-size: 24px;
     line-height: 157%;
@@ -221,7 +220,7 @@ body{
 }
 
 .description-info__title {
-    font-family: 'Georgia';
+    font-family: 'Georgia', serif;
     font-weight: 700;
     font-size: 50px;
     line-height: 157%;
@@ -231,7 +230,7 @@ body{
 }
 
 .description-info__subtitle {
-    font-family: 'Lato';
+    font-family: 'Lato', serif;
     font-weight: 500;
     font-size: 20px;
     line-height: 150%;
@@ -266,7 +265,7 @@ body{
 }
 
 .description-card__number {
-    font-family: 'Georgia';
+    font-family: 'Georgia', serif;
     font-weight: 400;
     font-size: 150px;
     line-height: 150%;
@@ -278,7 +277,7 @@ body{
 }
 
 .description-card__title {
-    font-family: 'Georgia';
+    font-family: 'Georgia', serif;
     font-weight: 700;
     font-size: 30px;
     line-height: 150%;
@@ -305,7 +304,7 @@ body{
 }
 
 .description-card__subtitle {
-    font-family: 'Lato';
+    font-family: 'Lato', serif;
     font-weight: 500;
     font-size: 20px;
     line-height: 150%;
@@ -345,7 +344,7 @@ body{
 }
 
 .story-text__title {
-    font-family: 'Georgia';
+    font-family: 'Georgia', serif;
     font-weight: 700;
     font-size: 49px;
     line-height: 157%;
@@ -355,7 +354,7 @@ body{
 .story-text__subtitle {
     margin-top: 33px;
     margin-bottom: 57px;
-    font-family: 'Lato';
+    font-family: 'Lato', serif;
     font-weight: 600;
     font-size: 25px;
     line-height: 157%;
@@ -363,7 +362,7 @@ body{
 }
 
 .story-text__btn {
-    font-family: 'Lato';
+    font-family: 'Lato', serif;
     font-weight: 400;
     font-size: 20px;
     line-height: 25px;
@@ -387,9 +386,7 @@ body{
 
 .product {
     margin: 0;
-    padding: 0;
-    padding-top: 120px;
-    padding-bottom: 168px;
+    padding: 120px 0 242px;
 }
 
 .product__container {
@@ -429,7 +426,7 @@ body{
 .product-info__text {
     margin: 0;
     padding: 0;
-    font-family: 'Lato';
+    font-family: 'Lato', serif;
     font-weight: 600;
     font-size: 25px;
     line-height: 157%;
@@ -437,10 +434,9 @@ body{
 }
 
 .product-info__title {
-    margin: 0;
     padding: 0;
-    margin-top: 10px;
-    font-family: 'Georgia';
+    margin: 10px 0 0;
+    font-family: 'Georgia', serif;
     font-weight: 700;
     font-size: 50px;
     line-height: 157%;
@@ -448,12 +444,10 @@ body{
 }
 
 .product-info__subtitle {
-    margin: 0;
     padding: 0;
-    margin-top: 17px;
-    margin-bottom: 48px;
+    margin: 17px 0 48px;
     max-width: 527px;
-    font-family: 'Lato';
+    font-family: 'Lato', serif;
     font-weight: 400;
     font-size: 20px;
     line-height: 31px;
@@ -461,7 +455,7 @@ body{
 }
 
 .product-info__btn {
-    font-family: 'Lato';
+    font-family: 'Lato', serif;
     font-weight: 400;
     font-size: 20px;
     line-height: 25px;
@@ -474,18 +468,14 @@ body{
 }
 
 .product__card {
-    padding-top: 23px;
-    padding-bottom: 30px;
-    padding-left: 61px;
-    padding-right: 54px;
+    padding: 23px 54px 30px 61px;
     position: absolute;
     max-width: 296px;
     top: 350px;
-    left: 0px;
+    left: 0;
     background: #FFFFFF;
     border-radius: 4px;
-    filter: drop-shadow(0px 3.62249px 18.1125px rgba(165, 165, 165, 0.25));
-
+    filter: drop-shadow(0px 4px 18px rgba(165, 165, 165, 0.25));
 }
 
 .product-block {
@@ -496,24 +486,22 @@ body{
 }
 
 .product-block__text {
-    margin: 0;
-    padding: 0;
-    margin-bottom: 14px;
-    font-family: 'Lato';
+    margin: 0 0 14px;
+    font-family: 'Lato', serif;
     font-weight: 600;
     font-size: 14px;
     line-height: 157%;
     text-align: center;
     color: #000000;
     border-bottom: 1px solid #000000;
-    padding-bottom: 10px;
+    padding: 0 0 10px;
     max-width: 110px;
 }
 
 .product-block__name {
     margin-top: 11px;
     margin-bottom: 20px;
-    font-family: 'Lato';
+    font-family: 'Lato', serif;
     font-weight: 400;
     font-size: 12px;
     line-height: 157%;
@@ -523,7 +511,7 @@ body{
 
 .product-block__title {
     margin-bottom: 16px;
-    font-family: 'Georgia';
+    font-family: 'Georgia', serif;
     font-weight: 700;
     font-size: 16px;
     line-height: 157%;
@@ -542,7 +530,7 @@ body{
 }
 
 .product-block__link {
-    font-family: 'Lato';
+    font-family: 'Lato', serif;
     font-weight: 400;
     font-size: 11px;
     line-height: 157%;
@@ -560,7 +548,7 @@ body{
 }
 
 .footer__title {
-    font-family: 'Avenir';
+    font-family: 'Avenir', serif;
     font-weight: 800;
     font-size: 40px;
     line-height: 55px;
@@ -578,7 +566,7 @@ body{
 }
 
 .footer__link {
-    font-family: 'Lato';
+    font-family: 'Lato', serif;
     font-weight: 600;
     font-size: 25px;
     line-height: 30px;
