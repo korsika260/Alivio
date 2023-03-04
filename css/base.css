@@ -471,7 +471,7 @@ body{
     padding: 23px 54px 30px 61px;
     position: absolute;
     max-width: 296px;
-    top: 350px;
+    top: 330px;
     left: 0;
     background: #FFFFFF;
     border-radius: 4px;
@@ -516,17 +516,22 @@ body{
     font-size: 16px;
     line-height: 157%;
     color: #000000;
+    text-align: left;
 }
 
 .product-block__list {
+    margin: 0;
+    padding: 0;
     display: flex;
     flex-direction: column;
     row-gap: 16px;
+    align-self: flex-start;
 }
 
 .product-block__item {
+    margin: 0 0 0 17px;
+    padding: 0;
     list-style: disc;
-    margin-left: -40px;
 }
 
 .product-block__link {
